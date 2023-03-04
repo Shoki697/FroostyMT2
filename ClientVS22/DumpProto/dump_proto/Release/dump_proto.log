@@ -1,0 +1,15 @@
+﻿  ItemCSVReader.cpp
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(252,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(281,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(313,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(339,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(518,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(543,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(567,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  1 of 984 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  dump_proto.vcxproj -> C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\Release\dump_proto.exe

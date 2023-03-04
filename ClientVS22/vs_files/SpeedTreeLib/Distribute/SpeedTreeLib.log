@@ -1,0 +1,11 @@
+﻿  StdAfx.cpp
+  BoundaryShapeManager.cpp
+  SpeedGrassRT.cpp
+  SpeedGrassWrapper.cpp
+  SpeedTreeForest.cpp
+  SpeedTreeForestDirectX8.cpp
+E:\Metin2_server\SolWayneSF v6\ClientVS22\source\SpeedTreeLib\VertexShaders.h(171,23): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  SpeedTreeWrapper.cpp
+E:\Metin2_server\SolWayneSF v6\ClientVS22\source\SpeedTreeLib\VertexShaders.h(171,23): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  Generating Code...
+  SpeedTreeLib.vcxproj -> E:\Metin2_server\SolWayneSF v6\ClientVS22\vs_files\SpeedTreeLib\Distribute\SpeedTreeLib.lib

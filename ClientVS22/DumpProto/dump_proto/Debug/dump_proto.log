@@ -1,0 +1,35 @@
+﻿cl : befehlszeile  warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  tea.cpp
+  lzo.cpp
+  ItemCSVReader.cpp
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(253,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(282,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(315,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(341,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(520,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(545,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\ItemCSVReader.cpp(569,25): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  dump_proto.cpp
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(292,32): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(219,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(225,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(227,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(257,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(494,19): warning C4477: "fprintf": Die Formatzeichenfolge "%s" erfordert ein Argument vom Typ "char *", das variadic-Argument "6" weist aber den Typ "int" auf.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(453,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(454,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(464,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(564,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(606,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(683,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(689,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(691,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(878,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(879,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(1001,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\dump_proto\dump_proto.cpp(1046,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CsvFile.cpp
+  Code wird generiert...
+CsvFile.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /SAFESEH ignoriert.
+LINK : warning LNK4098: Standardbibliothek "LIBCMTD" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  dump_proto.vcxproj -> C:\Users\mrpab\Desktop\Shinzu2 Neu\SRC\ClientVS22\DumpProto\Debug\dump_proto.exe

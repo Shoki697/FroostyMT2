@@ -1,0 +1,7 @@
+﻿  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  dllmain.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  Discord.vcxproj -> E:\Metin2_server\SolWayneSF v6\ClientVS22\extern\library\Discord_r.lib

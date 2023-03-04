@@ -1,0 +1,15 @@
+﻿  StdAfx.cpp
+  PythonGraphic.cpp
+  PythonGraphicImageModule.cpp
+  PythonGraphicModule.cpp
+  PythonGraphicTextModule.cpp
+  PythonGraphicThingModule.cpp
+  PythonGridSlotWindow.cpp
+  PythonSlotWindow.cpp
+  PythonWindow.cpp
+E:\Metin2_server\SolWayneSF v6\ClientVS22\source\EterPythonLib\PythonWindow.cpp(1652,47): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+E:\Metin2_server\SolWayneSF v6\ClientVS22\source\EterPythonLib\PythonWindow.cpp(1673,47): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+  PythonWindowManager.cpp
+  PythonWindowManagerModule.cpp
+  Generating Code...
+  EterPythonLib.vcxproj -> E:\Metin2_server\SolWayneSF v6\ClientVS22\vs_files\EterPythonLib\Distribute\EterPythonLib.lib
