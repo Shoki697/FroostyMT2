@@ -1,3 +1,4 @@
 'FROOSTYMT2_CLIENT/pack' filter=lfs diff=lfs merge=lfs -text
+'FROOSTYMT2_CLIENT/pack/*.epk' filter=lfs diff=lfs merge=lfs -text
 *.epk filter=lfs diff=lfs merge=lfs -text
 /FROOSTYMT2_CLIENT/pack/*.epk filter=lfs diff=lfs merge=lfs -text
