@@ -1,0 +1,4 @@
+0304 18:36:20314 :: 처리되지 않은 패킷 헤더 116, state Game
+
+0304 18:36:29982 :: Phase Game does not handle this header (header: 81, last: 45, 81)
+0304 18:36:31764 :: Unknown packet header: 105, last: 81 70
