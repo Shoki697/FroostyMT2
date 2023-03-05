@@ -1,5 +1,5 @@
 SERVER_NAME			= "FroostyMT2"
-SERVER_IP			= "192.168.0.142"
+SERVER_IP			= "37.252.121.67"
 CH1_NAME			= "CH1"
 CH2_NAME			= "CH2"
 CH3_NAME			= "CH3"
